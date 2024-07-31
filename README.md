@@ -1,1 +1,1 @@
-## A guide to kick start your deep learning journey with Pytorcgh
+## A guide to kick start your deep learning journey with Pytorch
